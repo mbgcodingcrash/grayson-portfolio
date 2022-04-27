@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    color: #090152;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  header {
+    padding: 20px 35px;
+  }
+
+  header h1 {
+    display: inline;
+    margin: 2pt;
+    font-size: 36px;
+  }
+
+  header nav {
+    float: right;
+  }
+
+  header nav ul li {
+    display: inline;
+    justify-content: center;
+  }
