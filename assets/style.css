@@ -5,7 +5,7 @@
   }
 
   body {
-    color: #090152;
+    color: cornflowerblue;
     font-family: Helvetica, Arial, sans-serif;
   }
 
@@ -29,13 +29,21 @@
     justify-content: center;
   }
 
+  address {
+    padding: 10px;
+}
+footer {
+    Padding: 10px;
+}
 
 /* ME SECTION STYLES START */
   .me {
-    background-color: #39a6b2;
+    background-color: #000000;
     padding: 20px;
       size: 300px;
-      color: rgb(0, 0, 0);
+  }
+  .me h2 {
+      text-align: center;
   }
 
   .me img {
@@ -52,18 +60,21 @@
 /* WORK SECTION STYLES START */
 
   .work {
+      padding: 20px;
   }
   .flexcontainer {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+.work h2 {
+    text-align: center;
 }
 .work img {
     height: 200pt;
-    padding: 20px;
 }
   .runbuddy img {
     height: 500px;
-
   }
   
 
@@ -76,6 +87,7 @@
       background-color: black;
       color: cornflowerblue;
   }
+ 
 
   /* CONTACT INFO SECTION STYLES END */
 
