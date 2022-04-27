@@ -10,6 +10,7 @@
   }
 
   header {
+      flex-wrap: wrap;
     padding: 20px 35px;
   }
 
@@ -26,4 +27,28 @@
   header nav ul li {
     display: inline;
     justify-content: center;
+  }
+
+  .me {
+    background-color: #39a6b2;
+    padding: 20px;
+      size: 300px;
+      color: rgb(0, 0, 0);
+  }
+
+  .me img {
+      display:block;
+      margin: 0 auto;
+      padding: 20px;
+  }
+  .me p{
+      font-size: large;
+      padding: 20px;
+  }
+
+  .work {
+
+  }
+  .work img {
+      max-width: 50%;
   }
