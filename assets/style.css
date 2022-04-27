@@ -29,6 +29,8 @@
     justify-content: center;
   }
 
+
+/* ME SECTION STYLES START */
   .me {
     background-color: #39a6b2;
     padding: 20px;
@@ -45,10 +47,36 @@
       font-size: large;
       padding: 20px;
   }
+/* ME SECTION STYLES END */
+
+/* WORK SECTION STYLES START */
 
   .work {
+  }
+  .flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.work img {
+    height: 200pt;
+    padding: 20px;
+}
+  .runbuddy img {
+    height: 500px;
 
   }
-  .work img {
-      max-width: 50%;
+  
+
+  /* WORK SECTION STYLES END */
+
+  /* CONTACT INFO SECTION STYLES START */
+
+  .contact {
+      padding: 10pt;
+      background-color: black;
+      color: cornflowerblue;
   }
+
+  /* CONTACT INFO SECTION STYLES END */
+
+
