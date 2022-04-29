@@ -72,9 +72,11 @@ footer {
 }
 .work img {
     height: 200pt;
+    padding: 20px;
 }
   .runbuddy img {
     height: 500px;
+    padding: 20px;
   }
   
 
