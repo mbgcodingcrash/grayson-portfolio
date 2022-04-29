@@ -16,3 +16,4 @@ Made with frustration ヽ(ಠ_ಠ) ノ by Michael Grayson
 ## Special Thanks
 tO AlL tHe HaTeRs OuT tHeRe!
 
+ <img src="./assets/images/portfolio-screenshot.png">
