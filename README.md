@@ -6,14 +6,13 @@ Provides a space for any interested party to see a portfolio of my work.
 ## Built With
 * HTML
 * CSS
-* Markdown for readme
 
 ## Website
-PLACE-HOLDER-WEBSITE.com
+https://mbgcodingcrash.github.io/grayson-portfolio/
 
 ## Contribution
 Made with frustration ヽ(ಠ_ಠ) ノ by Michael Grayson
 
-## Special Thanks 
-All the haters our there
+## Special Thanks
+tO AlL tHe HaTeRs OuT tHeRe!
 

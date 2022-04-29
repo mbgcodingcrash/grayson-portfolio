@@ -1,9 +1,14 @@
+
+/* GLOBAL SECTION STYLES START */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
   }
 
+  /* GLOBAL SECTION STYLES END */
+
+  /* GENERAL HTML SECTION STYLES START */
   body {
     color: cornflowerblue;
     font-family: Helvetica, Arial, sans-serif;
@@ -38,7 +43,10 @@ footer {
   justify-content: space-between;
     Padding: 10px;
 }
+ /* GENERAL HTML SECTION STYLES END */
 
+
+ 
 /* ME SECTION STYLES START */
   .me {
     display: flex;
