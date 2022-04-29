@@ -14,3 +14,6 @@ PLACE-HOLDER-WEBSITE.com
 ## Contribution
 Made with frustration ヽ(ಠ_ಠ) ノ by Michael Grayson
 
+## Special Thanks 
+All the haters our there
+
